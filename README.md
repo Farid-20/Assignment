@@ -46,5 +46,9 @@ This app is built with:
 ## 📸 images
 Here are some screenshots of the **NewsApp** app:
 # login screen
-<img src="https://raw.githubusercontent.com/GunjanPatel359/Assignment/refs/heads/master/app/src/main/res/drawable/loadingpage.jpeg" alt="Loading screen" width="300" />
+<img src="https://github.com/Farid-20/Assignment/issues/1" alt="Loading screen" width="300" />
+<img src="https://github.com/Farid-20/Assignment/issues/4" alt="Login Screen">
+<img src="https://github.com/Farid-20/Assignment/issues/2" alt="Loading screen" width="300">
+<img src="https://github.com/Farid-20/Assignment/issues/3"alt="Loading screen" width="300">
+<img src="https://github.com/Farid-20/Assignment/issues/5"alt="Loading screen" width="300">
 
