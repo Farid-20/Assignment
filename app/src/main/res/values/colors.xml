@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="login_bg">#E3F2FD</color> <!-- Light Blue -->
+    <color name="signup_bg">#FBE9E7</color> <!-- Light Peach -->
+    <color name="button_bg">#64B5F6</color> <!-- Blue for buttons -->
+    <color name="input_border">#B0BEC5</color> <!-- Light Grey for input fields -->
+</resources>
